@@ -1,5 +1,5 @@
 {
   "name": "my-app",
   "build": "npm install",
-  "start": "node <имя_файла_с_вашим_кодом>.js"
+  "start": "node index.js"
 }
